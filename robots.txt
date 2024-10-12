@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://sumenocojiju.pages.dev/sitemap.xml
